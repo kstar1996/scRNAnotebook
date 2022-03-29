@@ -1,10 +1,10 @@
 ### Run the notebooks in the order below:
-* Notebooks using mouse dataset
+* Notebooks using the mouse dataset
 1. scrna-seq-1-setup-data.ipynb
 2. scrna-seq-2-qc.ipynb
 3. scrna-seq-3-normalization-pca-embedding.ipynb
 4. scrna-seq-4-clustering.ipynb
-* Notebooks using human dataset
+* Notebooks using the human dataset
 1. scrna-seq-human-1-qc.ipynb 
 2. scrna-seq-human-2-normalization-dimen-reduc.ipynb 
 3. scrna-seq-human-3-clustering.ipynb
