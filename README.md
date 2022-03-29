@@ -16,5 +16,9 @@ Python 3.10
 Download data from here ->
 https://drive.google.com/drive/folders/1_0fjYXEUIbu-b2hpPu2EBwUjIMfv72Ua?usp=sharing
 
-
+### Install jupyter
+```
+> pip3 install jupyter
+> jupyter notebook
+```
 
