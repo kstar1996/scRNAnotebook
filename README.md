@@ -9,7 +9,7 @@
 2. scrna-seq-human-2-normalization-dimen-reduc.ipynb 
 3. scrna-seq-human-3-clustering.ipynb
 
-### Conda Environment
+### Conda environment
 Python 3.10
 
 ### Link to data
